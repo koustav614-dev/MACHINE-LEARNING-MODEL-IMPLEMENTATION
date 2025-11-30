@@ -13,3 +13,6 @@ DURATION: 6 WEEKS
 MENTOR: NEELA SANTHOSH KUMAR
 
 DESCRIPTION: This spam detection task involves building a simple machine-learning model that classifies emails as spam or ham (not spam). The project is implemented in Python using the scikit-learn library. A small text dataset is created, containing example email messages labeled as spam or ham. The text is converted into numerical features using TfidfVectorizer, which transforms the email content into weighted word scores. A Logistic Regression classifier is then trained to learn patterns commonly found in spam messages. After training, the model predicts whether new or unseen messages are spam or ham. Supporting libraries include pandas for handling the dataset and scikit-learn modules for preprocessing, model building, and prediction.
+
+OUTPUT
+![task 4](https://github.com/user-attachments/assets/fe57bd67-af4a-4a0f-b52d-c0e30ed3ffc2)
